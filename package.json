@@ -1,0 +1,19 @@
+{
+  "name": "page-transitions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "parcel src/index.html"
+  },
+  "devDependencies": {
+    "framer-motion": "^1.11.0",
+    "parcel-bundler": "^1.12.4",
+    "react": "^16.13.1",
+    "react-dom": "^16.13.1",
+    "react-router-dom": "^5.2.0"
+  },
+  "dependencies": {
+    "styled-components": "^5.1.1"
+  }
+}
